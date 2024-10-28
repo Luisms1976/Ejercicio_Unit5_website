@@ -1,0 +1,5 @@
+# Excluir configuración de VSCode
+.vscode/
+
+# Excluir archivos temporales de macOS
+.DS_Store
